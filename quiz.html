@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Code Quiz || Quiz</title>
+</head>
+<body>  
+    <div class="time">
+        <p id="time-text"></p>
+    </div>
+    <div id="question-container">
+        <h2 id="question-title"></h2>
+        <ol id="choices-container">
+            <li id="1"></li>
+            <li id="2"></li>
+            <li id="3"></li>
+            <li id="4"></li>
+        </ol>      
+        <p id="feedback"></p>
+    </div>
+    <section id="all-done">
+        <h1 class="allDondeh1">All done!</h1>
+        <p class="yourFinalScore">Your final score is <span id="score"></span></p>
+        <label for="enter-initial">Enter initials: </label>
+        <input type="text" id="enter-initials">
+        <button type="submit" class="btn btn-sbmt-score" id="submit-initials">Submit</button>
+    </section>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
