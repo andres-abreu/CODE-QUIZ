@@ -17,7 +17,7 @@ a {
     margin: 0 auto;
     margin-top: 15px;
     width: 30%;
-    font-size: 30px;
+    font-size: 25px;
     color: black;
     border-radius: 25px;
     border-style: solid; 
@@ -69,7 +69,7 @@ a {
 
 .allDondeh1 {
     color: rgb(255, 0, 0);
-    font-size: 40px;
+    font-size: 70px;
     padding: 15px;
 }
 
@@ -79,13 +79,13 @@ a {
 }
 
 .btn-sbmt-score { 
-    width: 10%;
+    width: 12%;
     padding: 5px;
 }
 
 #enter-initials {
-    height: 30px;
-    font-size: 20px;
+    height: 60px;
+    font-size: 30px;
 }
 
 #feedback {
