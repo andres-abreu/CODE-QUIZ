@@ -17,7 +17,7 @@ a {
     margin: 0 auto;
     margin-top: 15px;
     width: 30%;
-    font-size: 20px;
+    font-size: 30px;
     color: black;
     border-radius: 25px;
     border-style: solid; 
@@ -46,11 +46,12 @@ a {
 #time-text {
     padding: 20px;
     background-color:lightgrey;
-    width: 40%;
+    width: 20%;
     margin: 0 auto;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     border-radius: 20px;
+    border-style: dashed;
 }
 
 #question-title {
