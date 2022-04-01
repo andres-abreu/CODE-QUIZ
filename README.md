@@ -9,3 +9,8 @@ Here's a fast and fun multiple-choice-java-script-quiz-challenge-application, it
 * Google
 * YouTube
 * Teacher-assistance: Jocelyn Remington, Tim Sherry, Jordan Masone, Cristian Custodio.
+
+
+## VIDEO-CLIP
+https://user-images.githubusercontent.com/94572199/161352392-60fbfdad-d12c-4e1e-bfc0-3a35795c878e.mov
+
